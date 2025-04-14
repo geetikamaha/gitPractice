@@ -12,6 +12,7 @@ struct ContentView: View {
         VStack {
             Text("Change 3")
             Text("Push #2")
+            Text("Final push")
         }
         .padding()
     }
